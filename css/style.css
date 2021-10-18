@@ -300,7 +300,12 @@ h2 {
 @media screen and (max-width: 992px) {
   .fh5co-video {
     height: 450px;
-  }
+  } .fh5co-heading {
+	width: 60%;
+	font-size: 10px;
+	position: relative;
+	left: 20mm;
+}
 }
 .fh5co-video a {
   z-index: 1001;
