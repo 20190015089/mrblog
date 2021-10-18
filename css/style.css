@@ -422,6 +422,10 @@ h2 {
   #fh5co-hero .flexslider .slider-text > .slider-text-inner {
     text-align: center;
   }
+} h1 {
+	width: 100%;
+} h2 {
+	height: 15%;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1, #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
   margin: 0;
